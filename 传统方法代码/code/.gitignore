@@ -1,0 +1,13 @@
+.*/
+dataset/
+*dataset-patches/
+model
+*model/
+output/
+prev-results/
+vocab/
+cvproj/__pycache__/
+*.csv
+*.ipynb
+样本统计.xlsx
+nohup.out
